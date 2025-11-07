@@ -144,7 +144,7 @@ header .navbar {
     display: flex;
     align-items: center;
     padding: 0 20px;
-    background: url(../imagenes/portada4.png);
+    background: url(imagenes/portada4.png);
 }
 
 .hero-section .content {
